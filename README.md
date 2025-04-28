@@ -7,7 +7,17 @@ git clone https://github.com/NickBwalley/AI-Powered-Breakup-Recovery-Agent.git
 cd AI-Powered-Breakup-Recovery-Agent
 ```
 
-- create a `venv` and `activate` it
+- create a `venv` using python `uv name_of_the_venv_here`
+
+```bash
+uv venv
+```
+
+- Activate your `venv` environment.
+
+```bash
+.venv\Scripts\activate
+```
 
 - Install all the dependencies
 
